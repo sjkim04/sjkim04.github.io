@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sjkim04.github.io/seishousetsu/sitemap.xml
