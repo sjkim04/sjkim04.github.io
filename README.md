@@ -1,1 +1,3 @@
-# sjkim04.github.io
+---
+redirect_to: "https://seishousetsu.github.io"
+---
